@@ -14,4 +14,3 @@ export default function OneMovie() {
     </div>
   );
 }
-// movies => map pour chaque elem
